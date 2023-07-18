@@ -1,5 +1,5 @@
 ## Hello there into my github page!
-<img align="back" alt="Coder GIF" height=350 width=600 src="img/hi_there.gif">
+<img align="back" alt="Coder GIF" height=250 width=400 src="img/hi_there.gif">
 
 ### My name is Vitalii Hryhorenko. I'm software developer
 
